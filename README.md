@@ -1,4 +1,4 @@
-# Node + Typescript Football Stats
+# Node JS + Typescript Football Stats
 
 Reports stats from reading a CSV file and creating a report (console or HTML file).
 
