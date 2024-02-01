@@ -1,5 +1,5 @@
 export const dateStringToDate = (dateString: string): Date => {
-  // expected date format 12/01/2024
+  
   const dateParts = dateString
   .split('/')
   .map((value: string): number=> {
