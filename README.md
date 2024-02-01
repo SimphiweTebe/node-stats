@@ -1,6 +1,6 @@
-# Manchaster United Stats
+# Node + Typescript Football Stats
 
-Reports stats from reading a CSV file and creating a report.
+Reports stats from reading a CSV file and creating a report (console or HTML file).
 
 ## Install and run
 
